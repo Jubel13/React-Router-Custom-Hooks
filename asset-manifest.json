@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Router-Custom-Hooks/static/css/main.664fae2f.chunk.css",
+    "main.js": "/React-Router-Custom-Hooks/static/js/main.a15951ba.chunk.js",
+    "main.js.map": "/React-Router-Custom-Hooks/static/js/main.a15951ba.chunk.js.map",
+    "runtime-main.js": "/React-Router-Custom-Hooks/static/js/runtime-main.3e43aef6.js",
+    "runtime-main.js.map": "/React-Router-Custom-Hooks/static/js/runtime-main.3e43aef6.js.map",
+    "static/js/2.b68da402.chunk.js": "/React-Router-Custom-Hooks/static/js/2.b68da402.chunk.js",
+    "static/js/2.b68da402.chunk.js.map": "/React-Router-Custom-Hooks/static/js/2.b68da402.chunk.js.map",
+    "index.html": "/React-Router-Custom-Hooks/index.html",
+    "static/css/main.664fae2f.chunk.css.map": "/React-Router-Custom-Hooks/static/css/main.664fae2f.chunk.css.map",
+    "static/js/2.b68da402.chunk.js.LICENSE.txt": "/React-Router-Custom-Hooks/static/js/2.b68da402.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e43aef6.js",
+    "static/js/2.b68da402.chunk.js",
+    "static/css/main.664fae2f.chunk.css",
+    "static/js/main.a15951ba.chunk.js"
+  ]
+}
